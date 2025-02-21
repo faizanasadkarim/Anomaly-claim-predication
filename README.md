@@ -29,16 +29,11 @@ Reporting and Documentation: Documenting methodologies, findings, and recommenda
 Programming Languages & Libraries:
 
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
-Database:
+Database: SQL Server
+Visualization: Power BI
+Machine Learning: Scikit-learn
 
-SQL Server
-Visualization:
-
-Power BI
-Machine Learning:
-
-Scikit-learn
-💻 Installation
+## 💻 Installation
 Clone the Repository:
 ```
 bash
