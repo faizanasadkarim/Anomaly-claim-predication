@@ -36,8 +36,6 @@ Machine Learning: Scikit-learn
 ## 💻 Installation
 Clone the Repository:
 ```
-bash
-Copy
 git clone https://github.com/yourusername/medicare-fraud-detection.git
 ```
 Set Up the SQL Server Database:
@@ -45,11 +43,11 @@ Set Up the SQL Server Database:
 Import the provided SQL scripts to create the necessary tables and relationships.
 Install Python Dependencies:
 ```
-bash
-Copy
+
 pip install -r requirements.txt
-Configure Power BI:
+
 ```
+Configure Power BI:
 Connect Power BI to the SQL Server database using the provided connection strings.
 ## 🧑‍💻 Usage
 Data Analysis:
