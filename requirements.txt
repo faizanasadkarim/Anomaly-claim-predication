@@ -2,5 +2,6 @@ gunicorn
 joblib
 scikit-learn
 pandas
+streamlit
 numpy
 
